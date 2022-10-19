@@ -1,1 +1,3 @@
-# yahoo_crawlers
+# yahoo股市爬蟲
+輸入股號即可查詢
+-持續優化中－
